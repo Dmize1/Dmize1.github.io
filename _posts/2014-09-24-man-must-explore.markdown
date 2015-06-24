@@ -2,9 +2,9 @@
 layout:     post
 title:      "This is my first post"
 subtitle:   "Day one of the website saw a lot of action"
-date:       2014-09-24 12:00:00
+date:       2015-06-24 12:45:00
 author:     "Dylan Franco"
-header-img: "img/img1.jpg"
+header-img: "img/img3.jpg"
 ---
 
 <p></p>
@@ -18,7 +18,7 @@ header-img: "img/img1.jpg"
 <p></p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img img/img1.jpg>
 </a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
