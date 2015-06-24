@@ -18,7 +18,7 @@ header-img: "img/img3.jpg"
 <p></p>
 
 <a href="#">
-    <img img/img1.jpg>
+    <img/img1.jpg>
 </a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
