@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      style="color:black" "This is my first post"
+style="color:black" title:      "This is my first post"
 subtitle:   "Day one of the website saw a lot of action"
-date:       2015-06-24 12:45:00
+date:       2015-06-24 13:40:00
 author:     "Dylan Franco"
 header-img: "img/img2-2.jpg"
 ---
