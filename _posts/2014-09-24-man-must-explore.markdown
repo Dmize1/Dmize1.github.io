@@ -4,7 +4,7 @@ title:      "This is my first post"
 subtitle:   "Day one of the website saw a lot of action"
 date:       2015-06-24 12:45:00
 author:     "Dylan Franco"
-header-img: "img/img3.jpg"
+header-img: "img/img.jpg"
 ---
 
 <p></p>
@@ -15,13 +15,12 @@ header-img: "img/img3.jpg"
 
 <h2 class="section-heading">Reaching for the Stars</h2>
 
-<p>
+<p></p>
 
-
-    <img src="img/img3.jpg" alt="Titan Hunter and Warlock" style="width:343px;height:215px;">
-
+<a href="#">
+    <img src="{{ site.baseurl }}/img/img1.jpg" alt="Hunter Titan and Warlock">
+</a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-</p>
 
 <p></p>
 
