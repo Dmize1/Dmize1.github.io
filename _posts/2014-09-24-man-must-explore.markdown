@@ -18,7 +18,7 @@ header-img: "img/img3.jpg"
 <p></p>
 
 <a href="#">
-    <img src="img/img3.jpg" alt="Post Sample Image">
+    <img src="img3.jpg" alt="Titan Hunter and Warlock" style="width:343px;height:215px;">
 </a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
