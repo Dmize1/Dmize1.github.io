@@ -24,6 +24,9 @@ header-img: "img/img2-2.jpg"
 
 <h2 class="section-heading">Summary of changes</h2>
 <p>Changed _config.yml file to have my personal settings.</p>
+
 <p>Changed tag to "Internship Blog"</p>
+
 <p>Changed banners on Home, Contact and About pages to be Destiny related.</p>
+
 <p>Updated Home, Contact, and About pages to have my own writing on them.</p>
