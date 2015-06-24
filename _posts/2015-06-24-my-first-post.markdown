@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "This is my first post"
+title:      style="color:black" "This is my first post"
 subtitle:   "Day one of the website saw a lot of action"
 date:       2015-06-24 12:45:00
 author:     "Dylan Franco"
